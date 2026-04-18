@@ -1,6 +1,3 @@
-
-
-```markdown
 # CVE-2025-59528: Flowise CustomMCP Remote Code Execution
 
 > ⚠️ **WARNING**: This tool is for educational and authorized security testing purposes only. 
