@@ -1,7 +1,4 @@
 
----
-
-## 📄 2. `CVE-2025-59528.py` — Flowise CustomMCP RCE
 
 ```markdown
 # CVE-2025-59528: Flowise CustomMCP Remote Code Execution
